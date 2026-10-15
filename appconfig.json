@@ -2,7 +2,7 @@
   "appName": "Word Runner on Aippy",
   "appIcon": "",
   "packageName": "com.hamzanajjar.wordrunneronaippy",
-  "versionCode": 3,
+  "versionCode": 1,
   "versionName": "1.0",
   "keystoreMode": "auto",
   "splashEnabled": true,
@@ -43,7 +43,7 @@
   "disableCache": false,
   "webkitMode": true,
   "disableBounce": true,
-  "appResumeReload": true,
+  "appResumeReload": false,
   "keepSession": true,
   "openLinksInternally": true,
   "blockScreenshots": false,
@@ -63,6 +63,6 @@
   "targetAllDevices": true,
   "authMethods": [],
   "websiteUrl": "https://share.aippy.ai/p/uSxj",
-  "generatedAt": "2026-10-11T19:53:37.194Z",
+  "generatedAt": "2026-10-15T23:44:50.181Z",
   "generator": "Smart Website to App Maker — Developer Hamza Najjar"
 }
